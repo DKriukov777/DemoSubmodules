@@ -4,4 +4,4 @@ using SimpleCalculatorLib;
 
 var calculator = new DemoCalculator();
 Console.WriteLine("Hello, World!");
-Console.WriteLine(calculator.Minus(5,2));
+Console.WriteLine(calculator.Multiply(5,2));
