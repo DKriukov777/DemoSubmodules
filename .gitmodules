@@ -1,0 +1,3 @@
+[submodule "Submodules/CalculatorLib"]
+	path = Submodules/CalculatorLib
+	url = https://github.com/DKriukov777/CalculatorLib.git
